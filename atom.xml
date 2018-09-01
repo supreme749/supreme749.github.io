@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Supreme749</title>
+  
+  <subtitle>NO.7</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="supreme749.top/"/>
+  <updated>2018-08-01T17:36:24.000Z</updated>
+  <id>supreme749.top/</id>
+  
+  <author>
+    <name>No.7</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>换机测试</title>
+    <link href="supreme749.top/2018/08/02/%E6%8D%A2%E6%9C%BA%E6%B5%8B%E8%AF%95/"/>
+    <id>supreme749.top/2018/08/02/换机测试/</id>
+    <published>2018-08-01T17:35:44.000Z</published>
+    <updated>2018-08-01T17:36:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>在win10环境测试seaflie云盘blog</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在win10环境测试seaflie云盘blog&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
