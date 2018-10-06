@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Supreme749</title>
   
-  
+  <subtitle>百年名校精品遂中</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="supreme749.github.io/"/>
   <updated>2018-10-01T13:50:43.417Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>supreme749.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>No.7Xuan</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>高2021级10班点名程序</title>
-    <link href="http://yoursite.com/2018/10/01/%E9%AB%982021%E7%BA%A710%E7%8F%AD%E7%82%B9%E5%90%8D%E7%A8%8B%E5%BA%8F/"/>
-    <id>http://yoursite.com/2018/10/01/高2021级10班点名程序/</id>
+    <link href="supreme749.github.io/2018/10/01/%E9%AB%982021%E7%BA%A710%E7%8F%AD%E7%82%B9%E5%90%8D%E7%A8%8B%E5%BA%8F/"/>
+    <id>supreme749.github.io/2018/10/01/高2021级10班点名程序/</id>
     <published>2018-10-01T13:47:52.000Z</published>
     <updated>2018-10-01T13:50:43.417Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>换机测试</title>
-    <link href="http://yoursite.com/2018/08/02/%E6%8D%A2%E6%9C%BA%E6%B5%8B%E8%AF%95/"/>
-    <id>http://yoursite.com/2018/08/02/换机测试/</id>
+    <link href="supreme749.github.io/2018/08/02/%E6%8D%A2%E6%9C%BA%E6%B5%8B%E8%AF%95/"/>
+    <id>supreme749.github.io/2018/08/02/换机测试/</id>
     <published>2018-08-01T17:35:44.000Z</published>
     <updated>2018-08-01T17:36:24.000Z</updated>
     
@@ -56,22 +56,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>My awesome title</title>
-    <link href="http://yoursite.com/2016/10/12/supreme/"/>
-    <id>http://yoursite.com/2016/10/12/supreme/</id>
-    <published>2016-10-12T10:38:45.000Z</published>
-    <updated>2018-10-06T11:50:56.182Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="标签" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
